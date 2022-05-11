@@ -19,3 +19,7 @@ ls -al
 git add .
 git status
 git add file1
+git remote add origin https://github.com/kolugoorishivanireddy/devops.git
+ll
+git branch
+git push -u origin master
